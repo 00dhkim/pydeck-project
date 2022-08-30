@@ -5,6 +5,10 @@
 3. 대구광역시 나드리콜 접수 데이터를 전처리
 4. 전처리된 데이터로 trips layer를 생성하여 마무리
 
+## 최종 결과
+
+![Untitled](https://user-images.githubusercontent.com/25413312/187372745-9f432e9d-8454-419f-8028-6e7a0ef5c640.png)
+
 ## Reference
 
 - https://deck.gl/docs#introduction
